@@ -93,11 +93,10 @@ O projeto foi implementado em **Linguagem C (padrão C99)** utilizando exclusiva
 ### Linux / macOS
 1. Abra o terminal na pasta raiz do projeto.
 2. Compile o código-fonte:
-   ```bash
-   gcc -Wall -Wextra src/rpg_3.c -o jogo -lm
+   ``gcc -Wall -Wextra src/main.c -o jogo -lm``
 
 ### Windows (MinGW / PowerShell / CMD)
 1. Compile o código-fonte:
-   ``gcc -Wall -Wextra src/rpg_3.c -o jogo.exe -lm``
+   ``gcc -Wall -Wextra src/main.c -o jogo.exe -lm``
 2. Execute o jogo:
    ``jogo.exe``
