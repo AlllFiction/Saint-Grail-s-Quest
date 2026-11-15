@@ -100,3 +100,6 @@ O projeto foi implementado em **Linguagem C (padrão C99)** utilizando exclusiva
    ``gcc -Wall -Wextra src/main.c -o jogo.exe -lm``
 2. Execute o jogo:
    ``jogo.exe``
+
+### Vídeo de demonstração
+https://drive.google.com/drive/folders/1ux3YmLfvpK7yl21lmSKbkvA85V7lnXco?usp=sharing
